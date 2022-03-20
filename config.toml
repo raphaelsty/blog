@@ -1,16 +1,16 @@
-baseURL = "https://maxhalford.github.io/"
+baseURL = "https://raphaelsty.github.io/"
 languageCode = "en-us"
-title = "Max Halford"
+title = "Raphael Sourty"
 theme = "yinyang"
 enableRobotsTXT = true
 pygmentsUseClasses = true
 
 [author]
-  email = "maxhalford25@gmail.com"
-  name = "Max Halford"
+  email = "raphael.sourty@gmail.com"
+  name = "Raphael Sourty"
 
 [params]
-  headTitle = "Max Halford ツ"
+  headTitle = "Raphael Sourty - Welcome"
   mainSections = ["blog"]
   favicon = "/img/favicon.ico"
 
