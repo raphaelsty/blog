@@ -1007,5 +1007,5 @@ There is plenty of room for improvement. This contribution represents a baseline
 
 Unfortunately, I have not incorporated a feedback loop into this model. For example, we could study the errors and confidence scores of the model in cross-validation to create such a procedure.
 
-I appreciated the problem that Max posed. In the context of my thesis in NLP at Renault and Université Paul Sabatier, I regularly think about methods for generalization on datasets with a particular vocabulary (different from Wikipedia) and with a reduced number of training data. I think my answer shows that pre-trained extractive question-answering models associated can identify simple patterns with few examples on real-world datasets. 
+I appreciated the problem that Max posed. In the context of my thesis in NLP at Renault and Université Paul Sabatier, I regularly think about methods for generalization on datasets with a particular vocabulary (different from Wikipedia) and with a reduced number of training data. I think my answer shows that pre-trained extractive question-answering models can identify simple patterns with few examples on real-world datasets. 
 
